@@ -13,7 +13,7 @@
 # ![localdeployment](https://github.com/user-attachments/assets/e745f08f-983b-476e-a0c2-1317e7743c45)
 # Here, i successfully test my contract
 # ![testingContract](https://github.com/user-attachments/assets/f7a96ac4-bf4d-4c99-b45a-915bc54ab492)
-# And finially, i was able to deploy and verify it on Lisk Sepolia Testnet... Yah!!!
+# And finally, after runing into network issue, i was able to deploy and verify it on Lisk Sepolia Testnet... Yah!!!
 # ![verifycontract](https://github.com/user-attachments/assets/b856b204-9b2a-4854-a84e-012a8d22ae6c)
 
 
